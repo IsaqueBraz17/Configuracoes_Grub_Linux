@@ -1,3 +1,4 @@
+
 # 🐧 Guia Definitivo: Configuração e Customização do GRUB
 
 Bem-vindo ao guia de configuração do **GRUB (GRand Unified Bootloader)**. Este repositório serve como um manual prático para quem deseja entender, modificar, customizar e consertar o gerenciador de boot mais utilizado no ecossistema Linux.
@@ -16,6 +17,8 @@ Bem-vindo ao guia de configuração do **GRUB (GRand Unified Bootloader)**. Este
 6. [Troubleshooting (Resolução de Problemas)](#6-troubleshooting)
 
 ---
+
+<img width="774" height="747" alt="o-que-e-e-como-funciona-o-grub-no-linux-2" src="https://github.com/user-attachments/assets/4c26a321-45b2-474a-b5fb-4bbc5b9cb7e0" />
 
 ## 1. 📂 Estrutura de Arquivos
 
