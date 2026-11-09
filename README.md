@@ -1,0 +1,1 @@
+# Configuracoes_Grub_Linux
