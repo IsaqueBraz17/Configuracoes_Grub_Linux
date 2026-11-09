@@ -1,0 +1,33 @@
+// Configuracao do GRUB
+
+cd /boot
+ls
+cd grub2
+ls
+cd /etc /default
+ls
+cat/grub
+cd/etc/grub.d/
+ls
+
+cat 00_header
+
+vi grub.cfg
+
+cd/etc/default
+
+vi grub
+
+//Configurações
+GRUB TIMEOUT = 5 - Quando chega na tela do grub, Quanto tempo ele vai esperar até selecionar o default 
+
+GRUB DISTRIBUTOR - é a resile do meu sistemas
+GRUB DEFAULT -Qual opçãovai ser deafult, vim pre selecionado 
+
+GRUB DISABLE SOBRE MENU DESABILIDATR O MENU
+
+GRUB CMOLINE LINUX - São os parâmetros que vou passar para meu grub
+
+GRUB DISABLE RECOVERY
+
+
